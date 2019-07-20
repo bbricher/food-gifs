@@ -7,3 +7,18 @@ button {
     color: white;
     font-size: 16px;
 }
+#gifDisplay {
+}
+body {
+    background-color: lightgrey;
+}
+input {
+    margin: 5px;
+    padding: 5px;
+}
+#food-form {
+    justify-content: right;
+}
+#display {
+    display: flex;
+}
